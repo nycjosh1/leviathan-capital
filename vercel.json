@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/run_simulation_step",
+      "schedule": "0 * * * *"
+    }
+  ]
+}

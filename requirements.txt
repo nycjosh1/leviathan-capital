@@ -1,0 +1,11 @@
+gpteam
+groq
+alpaca-trade-api
+google-search-results
+newsapi-python
+yfinance
+finnhub-python
+transformers
+torch
+spacy
+vercel-kv
