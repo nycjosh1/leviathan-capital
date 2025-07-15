@@ -1,4 +1,5 @@
-      
+
+# Triggering a new Vercel deployment on July 15
 # tools.py
 import os, json, yfinance as yf, spacy, finnhub, alpaca_trade_api as tradeapi
 from serpapi import GoogleSearch
